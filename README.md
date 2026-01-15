@@ -40,7 +40,7 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 
 ---
 
-<img src="https://raw.githubusercontent.com/SilvityCode/SilvityCode/output/snake.svg" alt="Snake animation" />
+###
 
 ## 📈 Estadísticas de GitHub
 
