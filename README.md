@@ -44,7 +44,7 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de Silvia](https://github-readme-stats.vercel.app/api?username=SilvityCode&show_icons=true&theme=radical&cache_seconds=1800)
+![Estadísticas de Silvia](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SilvityCode&show_icons=true&theme=radical)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvityCode&layout=compact&theme=radical&cache_seconds=1800)
 
