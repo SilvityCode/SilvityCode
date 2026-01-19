@@ -43,7 +43,7 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 ###
 
 ## 📈 Estadísticas de GitHub
-### Lenguajes usados
+### Lenguajes
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvityCode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 ---
 
