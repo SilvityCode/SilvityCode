@@ -51,6 +51,3 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 
 Visita mi CV en [GitHub](https://silvitycode.github.io/CV---interactivo/).
 
----
-
-> *"Aprendo rápido, presto atención a los detalles y me apasiona construir cosas que funcionen y que sean visuales para los usuarios"*
