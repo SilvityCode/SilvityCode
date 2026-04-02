@@ -11,8 +11,9 @@ Actualmente estoy formándome como desarrolladora web full stack, con especial i
 | Área        | Tecnologías |
 | :---------- | :---------- |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
-| **Backend**  | Node.js |
+| **Backend**  | Node.js, PHP |
 | **Base de Datos** | SQLite |
+| **CMS / Web Builders** | WordPress, Kubio |
 | **Herramientas** | Git, GitHub, VS Code, NPM, DB Browser |
 
 > 💡 Estoy trabajando activamente en proyectos personales para reforzar mis habilidades en arquitectura modular, validación HTTP, operaciones CRUD y diseño responsivo.
@@ -49,5 +50,5 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 
 ## 📫 ¿Quieres saber más?
 
-Visita mi CV en [GitHub](https://silvitycode.github.io/CV---interactivo/).
+Visita mi CV en [CV](https://silvitycode.github.io/CV---interactivo/).
 
