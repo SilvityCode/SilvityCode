@@ -50,5 +50,10 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 
 ## 📫 ¿Quieres saber más?
 
-Visita mi CV en [CV](https://silvitycode.github.io/CV---interactivo/).
+Visita mi CV:
+👉[CV](https://silvitycode.github.io/CV---interactivo/).
+
+¡Échale un vistazo a mi proyecto!: 
+👉[SoftWhiskers](https://silvitycode.github.io/Pagina-de-roedores---SoftWhiskers/).
+⚠️ *Nota: actualmente es una demo del frontend. El backend está en desarrollo.*
 
