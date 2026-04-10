@@ -17,7 +17,6 @@ Actualmente estoy formándome como desarrolladora web full stack, con especial i
 | **Herramientas** | Git, GitHub, VS Code, NPM, DB Browser |
 
 > [!NOTE]
-> > [!NOTE]
 > 🚀 Estoy trabajando activamente en proyectos personales para reforzar mis habilidades en arquitectura modular, validación HTTP, operaciones CRUD y diseño responsivo, así como en la integración de modelos LLM e IA en aplicaciones web.
 
 ---
