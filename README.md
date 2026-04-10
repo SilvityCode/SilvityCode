@@ -33,11 +33,11 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 
 ## 📁 Proyectos Destacados
 
-### 🐹 Base de Datos de Roedores (CRUD + SQLite)
-* **Descripción:** Sistema para gestionar información sobre roedores (nombre, especie, género, categoría) con persistencia en SQLite.
-* **Tech Stack:** Node.js, SQLite3.
-* **Características:** Validación de datos, manejo de errores, operaciones CRUD completas y cumplimiento de restricciones de clave foránea.
-* [🔗 Ver Repositorio](https://github.com/SilvityCode/funnyNames/tree/main/MiniCrud/funnyNames)
+### 🐭 SoftWhiskers: la Madriguera (Full Stack)
+* **Descripción:** Aplicación web para gestión de adopciones de roedores con panel de administración.
+* **Tech Stack:** Node.js, Express.js, SQLite, JWT, bcrypt.
+* **Características:** Autenticación con JWT, adopciones con notificaciones persistentes, polling en tiempo real y panel admin.
+* [🔗 Ver Repositorio](https://github.com/SilvityCode/Pagina-de-roedores---SoftWhiskers)
 
 ---
 
@@ -50,10 +50,11 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 
 ## 📫 ¿Quieres saber más?
 
-Visita mi CV:
+Visita mi CV interactivo:
 👉[CV](https://silvitycode.github.io/CV---interactivo/).
 
 ¡Échale un vistazo a mi proyecto!: 
 👉[SoftWhiskers](https://silvitycode.github.io/Pagina-de-roedores---SoftWhiskers/).
-⚠️ *Nota: actualmente es una demo del frontend. El backend está en desarrollo.*
+> [!NOTE]
+> Se trata de una demo visual del frontend de la página.*
 
