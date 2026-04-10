@@ -16,7 +16,9 @@ Actualmente estoy formándome como desarrolladora web full stack, con especial i
 | **CMS / Web Builders** | WordPress, Kubio |
 | **Herramientas** | Git, GitHub, VS Code, NPM, DB Browser |
 
-> 💡 Estoy trabajando activamente en proyectos personales para reforzar mis habilidades en arquitectura modular, validación HTTP, operaciones CRUD y diseño responsivo.
+> [!NOTE]
+> > [!NOTE]
+> 🚀 Estoy trabajando activamente en proyectos personales para reforzar mis habilidades en arquitectura modular, validación HTTP, operaciones CRUD y diseño responsivo, así como en la integración de modelos LLM e IA en aplicaciones web.
 
 ---
 
@@ -56,5 +58,5 @@ Visita mi CV interactivo:
 ¡Échale un vistazo a mi proyecto!: 
 👉[SoftWhiskers](https://silvitycode.github.io/Pagina-de-roedores---SoftWhiskers/).
 > [!NOTE]
-> Se trata de una demo visual del frontend de la página.*
+> Se trata de una demo visual del frontend de la página.
 
