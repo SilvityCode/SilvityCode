@@ -36,8 +36,8 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 
 ### 🐭 SoftWhiskers: la Madriguera (Full Stack)
 * **Descripción:** Aplicación web para gestión de adopciones de roedores con panel de administración.
-* **Tech Stack:** Node.js, Express.js, SQLite, JWT, bcrypt.
-* **Características:** Autenticación con JWT, adopciones con notificaciones persistentes, polling en tiempo real y panel admin.
+* **Tech Stack:** Node.js, Express.js, SQLite, JWT, bcrypt, Groq API.
+* **Características:** Autenticación con JWT, adopciones con notificaciones persistentes, polling en tiempo real, panel admin y asistente virtual con IA.
 * [🔗 Ver Repositorio](https://github.com/SilvityCode/Pagina-de-roedores---SoftWhiskers)
 
 ---
