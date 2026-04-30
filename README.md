@@ -40,6 +40,14 @@ Este certificado oficial me ha proporcionado una base sólida en los estándares
 * **Características:** Autenticación con JWT, adopciones con notificaciones persistentes, polling en tiempo real, panel admin y asistente virtual con IA.
 * [🔗 Ver Repositorio](https://github.com/SilvityCode/Pagina-de-roedores---SoftWhiskers)
 
+
+### 👾 Pixelando: tienda de Hama Beads (en desarrollo)
+* **Descripción:** Tienda online de hama beads artesanales con estilo pixel art medieval.
+* **Tech Stack:** React, Vite, Framer Motion, React Router DOM, CSS modular.
+* **Características:** Animaciones con cofre interactivo, tabla de rarezas con selector Estándar/Premium, galería de creaciones, formulario de encargos con rareza preseleccionada, sistema de login/registro con validaciones en tiempo real.
+* [🔗 Ver Repositorio](https://github.com/SilvityCode/Pixelando.git)
+
+
 ---
 
 ###
